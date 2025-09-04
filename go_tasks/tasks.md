@@ -1,3 +1,9 @@
+[online ide](https://go.dev/play/)
+
+[gemini chat](https://gemini.google.com/app/13f701d0cd6dc729)
+
+***
+
 Here are five small programming tasks in Go:
 
 ### 1. Simple Command-Line To-Do List
