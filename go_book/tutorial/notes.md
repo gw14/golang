@@ -1,9 +1,9 @@
-go run file.go - compile file.go into an executable and run it.
-go build file.go - only compile file.go
+`go run file.go` - compile file.go into an executable *and* run it.
+`go build file.go` - only *compile* file.go
 natively uses UNICODE
 go code is organized in packages (libraries or modules in other languages)
 
-fmt.Println(“string”) - function to output “string” to screen (stdout)
+`fmt.Println(“string”)` - function to output “string” to screen (stdout)
 fmt is a standard library package, in order to use it’s functions, it need to be imported:
 ` import “fmt” `
 
