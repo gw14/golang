@@ -17,3 +17,4 @@ if [[ -d /usr/local/go ]] then echo exists; else echo invalid; fi
 #export PATH=$PATH:/usr/local/go/bin
 
 ```
+[go install](https://go.dev/doc/install)
