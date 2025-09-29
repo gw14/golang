@@ -30,5 +30,3 @@ for initialization ; condition ; post {
 }
 ```
 “_” is the blank identifier, it is assigned values that need to be discarded.
-
----stopped at page 22---
