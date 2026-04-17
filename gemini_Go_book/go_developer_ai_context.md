@@ -27,30 +27,7 @@ The book aims to be a comprehensive guide that takes a developer with basic prog
 
 ### High-Level Outline
 
-1.  **Foundations (The "Scratch" part):**
-    - Why Go? (Philosophy and Use Cases)
-    - Setting up a professional Go environment.
-    - Language fundamentals (variables, types, control flow).
-    - Functions, Methods, and Interfaces.
-    - Error Handling (the Go way).
-    - Basic Concurrency.
-
-2.  **Building Competence (Mid-Level):**
-    - Structuring Go projects.
-    - Advanced Concurrency Patterns.
-    - Testing Strategies (Unit, Integration, Mocks).
-    - Building a REST API.
-    - Working with Databases (SQL and NoSQL).
-    - Tooling and the Go Ecosystem.
-
-3.  **Achieving Seniority (The "Senior" part):**
-    - Advanced Performance Optimization.
-    - System Design and Architecture in Go.
-    - Microservices: Patterns and Pitfalls.
-    - Observability (Logging, Metrics, Tracing).
-    - Security Best Practices.
-    - Contributing to Open Source.
-    - Mentorship and Technical Leadership.
+use [book_plan.md](book_plan.md) when tracking progress of the book.
 
 ## Your Role in this Chat
 
