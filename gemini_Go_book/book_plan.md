@@ -1,3 +1,20 @@
+## Book Tone & Style
+
+### Code Examples:
+- Ensure examples are clear and easy to understand.
+- Each example should include comments for clarification.
+- Use real-world scenarios when applicable.
+
+# Book Development Status
+
+Current Stage: All 18 chapters drafted
+
+## Code Examples Guideline
+
+When providing code examples, ensure they are clear, well-commented, and relevant to the topic at hand. Avoid overly complex examples unless necessary, and strive for simplicity. Each code snippet should be accompanied by a brief explanation of its purpose and functionality.
+
+---
+
 # Plan for "From Scratch to Senior: A Go Developer's Journey"
 
 This document outlines the chapter-by-chapter plan for the book.
