@@ -25,4 +25,19 @@ import "math/rand"
   Pizza #exported
   pizza #not exported
   ``` 
-https://go.dev/tour/basics/4
+```
+x int, y int <=> x, y int
+```
+
+* A function can return any number of results.
+* A var statement can be at package or function level.
+
+* type casting - explicit
+```
+i := 42
+f := float64(i)
+u := uint(f)
+```
+* const decleration `const Pi = 3.14`
+
+https://go.dev/tour/flowcontrol/1
